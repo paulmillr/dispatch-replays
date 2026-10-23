@@ -13,3 +13,5 @@
 0012-local-shell-integration
 0013-review-tab
 0014-arm64-mac-helper
+0015-ssh-runtime-folder-login
+0016-ssh-cache-check-tells-noexec
